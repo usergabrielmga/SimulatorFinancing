@@ -1,0 +1,4 @@
+Financing {Valor do imóvel = R$ 23333,00, Prazo do financiamento = 12 anos, Taxa anual = 12,00%}, Área construída = 45,00 m², Tamanho do terreno = 334,00 m²
+Financing {Valor do imóvel = R$ 500000,00, Prazo do financiamento = 10 anos, Taxa anual = 10,00%}, Área construída = 200,00 m², Tamanho do terreno = 400,00 m²
+Financing {Valor do imóvel = R$ 200000,00, Prazo do financiamento = 10 anos, Taxa anual = 12,00%}, Andar = 10, Vagas de garagem = 1
+Financing {Valor do imóvel = R$ 150000,00, Prazo do financiamento = 15 anos, Taxa anual = 11,00%}, Tipo de zoneamento = residencial
